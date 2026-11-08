@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Sticky app icon" width="128">
+  <img src="https://i.imgur.com/hG9UjWMh.jpg" alt="Sticky app icon" width="128">
 </p>
 
 <h1 align="center">Sticky</h1>
@@ -15,3 +15,15 @@ Supports static and animated stickers, saved GIFs, sticker previews, and WhatsAp
 > Requires an ARM64 Android device. Telegram sign-in is handled by the official TDLib.
 
 Download the latest version from [GitHub Releases](https://github.com/Oyukihiro/Sticky/releases).
+
+---
+
+## Português
+
+O Sticky é um aplicativo Android que ajuda você a encontrar figurinhas na sua conta do Telegram, escolher suas favoritas e prepará-las para importar no WhatsApp ou WhatsApp Business. Também é possível importar arquivos do aparelho sem conectar uma conta do Telegram.
+
+Compatível com figurinhas estáticas e animadas, GIFs salvos e prévias. Disponível em português e inglês, com temas claro, escuro e AMOLED.
+
+> Requer um aparelho Android com arquitetura ARM64. O login do Telegram é feito pela TDLib oficial.
+
+Baixe a versão mais recente em [GitHub Releases](https://github.com/Oyukihiro/Sticky/releases).
